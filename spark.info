@@ -1,0 +1,7 @@
+name: ga-spark
+
+version: 0.0.1
+
+compatibility: 2.2.x/3.x
+
+tags: ["comments", "ga-sparks"]
